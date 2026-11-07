@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Display Widget
+GenericName=Monitor Settings
+Comment=Control monitor brightness, contrast, input source and layout (DDC/CI + GNOME)
+Exec=display-widget
+Icon=display-widget
+Categories=Utility;Settings;HardwareSettings;
+Keywords=monitor;display;brightness;contrast;input;ddc;acer;
+Terminal=false
+StartupNotify=false
